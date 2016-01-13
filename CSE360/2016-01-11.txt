@@ -1,7 +1,7 @@
 1968
 Solve the Software Crisis
     Late
-    Overbudget
+    Over budget
     Failures
 
 The establishment and use of sound engineering principles in order to obtain
@@ -17,7 +17,7 @@ What to do:
 25% of software projects were "successful"
     Not late,
     Not running over budget
-19% Cancelled
+19% Canceled
 46% Late/Over Budget/Missing features
 
 Tools & Techniques
