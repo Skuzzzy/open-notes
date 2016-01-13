@@ -1,0 +1,73 @@
+Software Life Cycle Models
+    Allow practitioners to organize ??? tasks in a certain way.
+    No single process model that works well for all projects.
+    Goal: Product high quality project on time and within budget.
+
+Simple View in phases:
+    Definition
+    Development
+    Support
+
+Consider:
+    1. Flow of activities
+    2. Work products
+    3. Quality Requirements
+    4. Project management
+    5. Stakeholder involvement
+        - Vested Interest in success
+    6. Team makeup
+
+Classification
+    Plan driven vs Agile
+    Incremental vs Evolutionary
+
+Ideal View:
+    Linear:
+        Requirements
+        Analysis
+        Design
+        Implementation
+        Development
+        Problems:
+            Requirements can change
+    Inclusion of feedback loops for maintenance
+
+Moving Target
+1. Expect a change in requirements while the product is being developed
+2. Change can impact schedule, and code quality
+    Dependencies are introduced
+    Regression fault
+3. If there are too many changes, options are:
+    Redesign
+    Restart
+4. Change is inevitable
+5. There is no solution to the moving target problem
+
+Incremental Model
+    Scheduling and staging
+    integrate as they are completed
+
+Evolutionary Model
+    Cycles rework, revise, and improve the project
+
+Code and Fix Model
+    (See life cycle models presentation)
+
+Waterfall Model
+    (See life cycle models presentation)
+    Some implementations include feedback loops
+
+Prototyping
+    (See life cycle models presentation)
+    Circular:
+        Quick plan
+        Modeling quick design
+        Construction of prototype
+        Deployment delivery and feedback
+        communication
+
+Spiral Model
+    Risk analysis associated with every one of the steps
+    (See life cycle models presentation)
+    Basically just waterfall with a step of risk analysis before every step
+
