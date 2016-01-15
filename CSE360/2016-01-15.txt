@@ -1,0 +1,66 @@
+Incremental vs Evolutionary models of development
+
+Traditional
+    Late
+    Over budget
+    Too many error
+    Documentation focused
+    Problems:
+	Not focused on customers changing needs
+
+Agile
+    See manifesto for agile software development
+	http://agilemanifesto.org/
+    Characteristics:
+	Effective response to change
+	    Adaptive
+	    Move Quickly
+	Effective communication with all shareholders
+	Drawing customer into the team
+	Make the team be in control
+	Use evolutionary and/or incremental models
+
+    Process:
+	Driven by customer descriptions
+	Scenarios
+	User stories
+	Create short term plans
+	Iterative process
+	    Multiple deliveries
+	Adaptive as change occurs
+
+    Agile processes have a lower development cost as changes are introduced to
+	the project as development schedule progress increases.
+
+Human Factors
+    Key Traits
+	Communication
+	Cooperation
+	Self motivation
+	Goal setting
+	Make decisions
+	Solve problems
+	Trust and respect
+
+Scrum
+    Development work is partitioned into packets
+	packets are called 'sprints'
+    Testing and documentation are changing
+    Iterative with focus developing working code
+    Sprints have a focus on producing a working demo
+    Sprints can pass or fail depending on if the objectives have been
+	sufficiently met
+    Entities:
+	Product owner
+	Scrum master
+	    Literally enslaves the team
+	Team members
+
+    Scrum Overview (see slides)
+	Product backlog
+	Sprint backlog
+	Sprint
+	Working increment of the software
+	    (potentially shippable version of software)
+
+    Kanban exists
