@@ -1,0 +1,22 @@
+"Good" vs "Bad" Code
+
+What makes code bad?
+    Lack of documentation
+    Lack of unit tests
+    Code
+	Poor use of white space
+	Improper namespaces
+	Nondescriptive variable names
+	Poor UI
+    The remainer of the things listed on the board were extremly obvious.
+	Ex. When the code doesn't compile ...
+
+Went over CSE360 programming style guide
+    On blackboard. Course Information -> Coding and Documentation Requirements
+	Just stuff like variable names and whitespace
+	camelCase = camelBack notation
+Also see documentation requirements in same location
+    Javadocs Javadocs Javadocs Javadocs Javadocs Javadocs
+    Javadocs Javadocs Javadocs Javadocs Javadocs Javadocs
+
+Assignment 1 Due soon (posted now)
