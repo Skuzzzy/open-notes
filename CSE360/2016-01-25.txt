@@ -1,0 +1,23 @@
+class Demo {
+    private String str;
+    private int num;
+
+    public Demo (String newStr, int val) {
+	str = newStr;
+	num = val;
+    }
+}
+
+Demo temp = new Demo(new String("Jan"), 25);
+
+Stack
+    newStr -> String "Jan"
+    val -> 25
+    ...
+    temp -> Demo Object
+
+Heap
+    Demo Object
+	str -> String "Jan"
+	num -> 25
+    String "Jan"
