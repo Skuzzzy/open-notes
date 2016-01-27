@@ -1,0 +1,31 @@
+Went over quiz
+
+Traditional Development
+    Collect Requirements
+    Design Solution
+    Code Solution
+    Test Solution
+    Deliver
+
+Test Driven Development (TDD)
+    Write a test
+    Run tests
+    Write just enough code to make test not fail
+    Run tests
+    Refactor
+	Red-Green Refactor
+	    Red State
+		Write tests
+		Supposed to fail
+	    Green State
+		When implementation of last test is finished.
+		All tests should pass
+	    Refactoring
+		Improve but not add more features
+    Approach to design and implementation process
+    Main objective is code design
+	Test are useful side products
+
+JUnit Testing
+    (see junit testing slide show)
+
