@@ -1,0 +1,6 @@
+Went over Junit testing today (No notes)
+
+Configuration Management
+    Change management
+	A la VCS
+    Not taking notes on this
